@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github!
 
-I'm a life-long learning Software Engineer, actively seeking ways to contribute to open source products to boost developer productivity. My current interest lies in front-end state management systems as well as other technologies. 
+I'm a life-long learning Software Engineer, actively seeking ways to contribute to open source products to boost developer productivity. My current interest lies in front-end state management systems as well as other technologies. Technologies I'm using day to day: React, Redux, Node.js, Python, Typescript, Webpack.   
 
 ### Open Source Projects
 
