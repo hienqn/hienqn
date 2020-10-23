@@ -22,7 +22,7 @@ Please reach out to me @ hien.qqnguyen@gmail.com
 
 ### Fun fact:
 
-I have a chemical engineering background and am very interested in battery technology as well. 
+I have a chemical engineering background and published a few papers in lithium battery during my undergrad time.  
 
 <!--
 **hienqn/hienqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
