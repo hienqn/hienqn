@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github!
 
-I'm a life-long learning Software Engineer, actively seeking ways to contribute to open source products to boost developer productivity. My current interest lies in front-end state management systems as well as other technologies. Technologies I'm using day to day: React, Redux, Node.js, Python, Typescript, Webpack.   
+I'm a life-long learning Software Engineer, actively seeking ways to contribute to open source products to boost developer productivity. My current interest lies in front-end state management systems as well as other technologies. Technologies I'm using day to day: GraphQL, React, Redux, Node.js, Python, Typescript, Webpack.   
 
 ### Open Source Projects
 
@@ -22,7 +22,7 @@ Please reach out to me @ hien.qqnguyen@gmail.com
 
 ### Fun fact:
 
-I have a chemical engineering background and published a few papers in lithium battery during my undergrad time.  
+I have a chemical engineering background and I've published a few papers in lithium battery during my undergrad time.  
 
 <!--
 **hienqn/hienqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
